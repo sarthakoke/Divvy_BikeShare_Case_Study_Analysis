@@ -125,20 +125,6 @@ Based on the data analysis:
 
 ---
 
-## 📁 Folder Structure (example)
-
-```
-📁 Divvy-Case-Study
-├── 📊 TableauDashboard.twbx
-├── 🧾 README.md
-├── 📄 SQL_Cleaning_Queries.sql
-├── 📂 Assets
-│   └── divvy-dashboard.png
-└── 📄 Cleaned_Dataset.csv
-```
-
----
-
 ## 🏁 Conclusion
 
 This project highlights how even basic user segmentation and ride pattern analysis can lead to powerful insights for shaping product and marketing strategies in shared mobility services.
