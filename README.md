@@ -95,7 +95,8 @@ Tableau dashboard visualizes:
 
 🖼️ Example preview:
 
-> Check the dashboard linked at the top of this README.
+![image](https://github.com/user-attachments/assets/d0929f68-a429-42cf-a30f-3379e2e7d461)
+
 
 ---
 
